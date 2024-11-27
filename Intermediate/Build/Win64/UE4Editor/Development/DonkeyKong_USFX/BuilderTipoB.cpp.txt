@@ -1,0 +1,9 @@
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\BuilderTipoB.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\BuilderNiveles.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderNiveles.generated.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\BuilderTipoB.generated.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\Plataforma.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Plataforma.generated.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\Escaleras.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Escaleras.generated.h

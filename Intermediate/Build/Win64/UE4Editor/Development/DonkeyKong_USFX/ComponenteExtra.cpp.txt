@@ -1,0 +1,3 @@
+C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Source\DonkeyKong_USFX\ComponenteExtra.h
+C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\ComponenteExtra.generated.h

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-DonkeyKong_USFX-4943.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Intermediate\Build\Win64\DonkeyKong_USFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Module.DonkeyKong_USFX.cpp.obj"
+"C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Module.DonkeyKong_USFX.gen.cpp.obj"
+"C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Default.rc2.res"
+/OUT:"C:\Users\PC-Solution 30-9-24\Documents\Unreal Projects\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\UE4Editor-DonkeyKong_USFX-4943.lib"

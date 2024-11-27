@@ -1,0 +1,15 @@
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\EstrategiaZigzag.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\IEstrategiaMovimiento.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\IEstrategiaMovimiento.generated.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\Enemigos.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\Plataforma.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Plataforma.generated.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\Enemigos.generated.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\EstrategiaZigzag.generated.h

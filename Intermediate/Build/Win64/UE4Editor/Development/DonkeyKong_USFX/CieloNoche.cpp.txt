@@ -1,0 +1,3 @@
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+E:\PATRONES\DonkeyKong_USFX\Source\DonkeyKong_USFX\CieloNoche.h
+E:\PATRONES\DonkeyKong_USFX\Intermediate\Build\Win64\UE4Editor\Inc\DonkeyKong_USFX\CieloNoche.generated.h
